@@ -4,7 +4,9 @@ Modern ve kullanıcı dostu bir kütüphane yönetim sistemi. React + Tailwind C
 
 ## 🌐 Canlı Demo
 
-**[Canlı Uygulamayı Görüntüle](https://NETLIFY_URL_BURAYA)**
+**[Canlı Uygulamayı Görüntüle](https://wondrous-lebkuchen-615036.netlify.app
+
+)**
 
 ## 🚀 Özellikler
 
