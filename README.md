@@ -135,4 +135,4 @@ src/
 
 ---
 
-**Patika.dev Capstone Projesi** - 2024
+**Patika.dev Capstone Projesi** - 2026
